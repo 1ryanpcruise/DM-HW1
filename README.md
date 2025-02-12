@@ -34,7 +34,7 @@ I only have one python file for homework #2 that does the calculations for all o
 of the dataframe that contains all of the MSE values for the 10-fold CV for each dataset. Because this file runs for all six datasets, it slow in comparison to the other files. On my Microsoft Surface Pro 9, it took about 3.5 - 4 minutes to run.\
 <br/>
 Python file for **Homework 2(a):**\
--hw1_prob2.py
+- hw1_prob2.py
 <br/>
 
 **Homework 3**\
