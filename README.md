@@ -35,14 +35,14 @@ Python files for **Homework 1(b):**
 I only have one python file for homework #2 that does the calculations for all of the files. This python file exports a csv
 of the dataframe that contains all of the MSE values for the 10-fold CV for each dataset. Because this file runs for all six datasets, it slow in comparison to the other files. On my Microsoft Surface Pro 9, it took about 3.5 - 4 minutes to run.\
 <br/>
-Python file for **Homework 2(a):**\
+Python file for **Homework 2(a):**
 - hw1_prob2.py
 <br/>
 
 **Homework 3**\
 I created one python file for Lambda = 1, Lambda = 25, and Lambda = 150. The corresponding graphs can be found in the "graphs" subfolder.\
 <br/>
-Python files for **Homework 3**
+Python files for **Homework 3:**
 - hw1_prob3_lam1
 - hw1_prob3_lam25
 - hw1_prob3_lam150
