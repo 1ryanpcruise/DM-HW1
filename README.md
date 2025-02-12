@@ -2,7 +2,9 @@
 Homework 1 for Data Mining Spring 2025\
 Author: Ryan Cruise, SJ - 2/12/2025\
 <br/>
-You can find my written responses in the "HW1_responses" word document. "HW1_responses" also has details on how the graphs correspond to each question and dataset. All of my graphs are in the "graphs" subfolder.\
+You can find my written responses in the "HW1_responses" word document. "HW1_responses" also has details on how the graphs correspond to each question and dataset. All of my graphs are in the "graphs" subfolder. If you have issues loading the
+.csv files, make sure you are in the correct directory to access the files; all of the pd.read_csv() functions assume
+that the working directory is the directory that contains the "HW1_dataset" folder.\
 <br/>
 
 **Homework 1(a)**\
