@@ -28,7 +28,7 @@ instructions and tests on test-1000-100.csv. The corresponding graphs can be fou
 <br/>
 Python files for **Homework 1(b):**
 - hw1_1b_50_1000_100.py
-- hw1_1b_100_1000_100.py
+- hw1_1b_100_100.py
 - hw1_1b_150_1000_100.py
 <br/>
 
