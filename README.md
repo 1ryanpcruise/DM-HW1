@@ -15,7 +15,7 @@ using test-100-10.csv. The corresponding graphs can be found in the "graphs" sub
 <br/>
 Python files for **Homework 1(a):** 
 - hw1_1a_100_10.py
-- hw1_1a_100-100.py
+- hw1_1a_100_100.py
 - hw1_1a_1000_100.py
 - hw1_1a_50_1000_100.py
 - hw1_1a_100_1000_100.py
