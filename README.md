@@ -30,7 +30,7 @@ Programming flow for **Homework 1(a):**
 4. begin lambda loop (0-150) and calculate matrices for train and test that use lambda
 5. store values in the df from step 2
 6. find the minimum MSE and its corresponding lambda
-7. graph the df from step 2
+7. graph
 
 **Homework 1(b)**\
 Similarly to homework 1(a), I created one python file for each dataset. Each file trains on the dataset I created per the
