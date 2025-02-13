@@ -22,7 +22,7 @@ Python files for **Homework 1(a):**
 - hw1_1a_150_1000_100.py
 <br/>
 
-Programming flow for **Homework 1(a)**
+Programming flow for **Homework 1(a):**
 - All of the 6 python files for 1(a) follow these steps:
 1. load train and test data
 2. create df to store MSE's for each lambda
@@ -42,7 +42,7 @@ Python files for **Homework 1(b):**
 - hw1_1b_100_1000_100.py
 <br/>
 
-Programming flow for **Homework 1(b)**
+Programming flow for **Homework 1(b):**
 - All of the 3 python files for 1(b) follow these steps:
 - the only difference between the code of 1(a) and 1(b) is that lambda starts at 1 instead of 0.
 1. load train and test data
@@ -61,7 +61,7 @@ Python file for **Homework 2(a):**
 - hw1_prob2.py
 <br/>
 
-Programming flow for **Homework 2(a)**
+Programming flow for **Homework 2(a):**
 - The python file for question 2 follows the following steps:
 1. create an empty dataframe that will store the final MSEs for each of the 6 datasets
 2. begin the outermost loop that iterates through the list of the filenames of each of the 6 datasets
@@ -84,7 +84,7 @@ Python files for **Homework 3:**
 - hw1_prob3_lam25
 - hw1_prob3_lam150
 
-Programming flow for **Homework 3**
+Programming flow for **Homework 3:**
 - All of the 3 python files for 3 follow these steps:
 - the only difference between the code of these files is the value of lambda, which I just hardcoded
 1. create a function that calculates the test and train MSE (the same function from problem 2)
@@ -99,6 +99,6 @@ Programming flow for **Homework 3**
 10. calculate train and test MSE (lambda is hardcoded here)
 11. average the train and test MSEs for all repitions (trials)
 12. store final averaged MSEs tor train and test for each subset
-13. grapgh 
+13. graph 
 
 
